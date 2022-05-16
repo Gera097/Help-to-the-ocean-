@@ -66,7 +66,16 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 
 ### 2. Creación del API:
 
-#### 2.1  
+#### 2.1  Inicializamos un nuevo proyecto de JS e instalamos las dependencias de Prisma DB y Express
+  
+  | |Comandos|
+|------|------|
+|JS| npm init|
+|Express|npm install express --save-dev|
+|Prisma DB|npm install prisma --save-dev|
+|Prisma DB|npx prisma init (Inicialización de prisma)|
+  
+#### 2.1 Modificamos el archivo .env creado con el usuario,contraseña  y nombre de la base de datos
   
   
 ### 3. CRUD:
