@@ -11,11 +11,13 @@ Proyecto fullstack desarrollado en el hackaton Hack the ocean de innovacción vi
 
 Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una problemática relacionada con los océanos, utilizando, las tecnologías, marcos de trabajo y metodologías revisadas en Launch X.
 
-## Tabla de contenidos: 📋
+## Contenido: 📋
 ---
 - [Dependencias de desarrollo](#id1)
-- [Solución](#id2)
-- [Autores](#id3)
+- [Propuesta](#id2)
+- [Solución Frontend](#id3)
+- [Solución Backend](#id3)
+- [Autores](#id4)
 
 <div id='id1' />
 
