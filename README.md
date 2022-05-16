@@ -14,16 +14,18 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 ## Contenido: 📋
 ---
 - [Dependencias de desarrollo](#id1)
-- [Propuesta](#id2)
 - [Solución Frontend](#id3)
 - [Solución Backend](#id3)
 - [Autores](#id4)
 
 <div id='id1' />
 
-## Dependencias de desarrollo, herramientas y  tecnologías 🛠️
+## Dependencias de desarrollo, herramientas, tecnologías y links a repositorios 🛠️
 | |Tecnologías|
 |------|------|
+|1| [HTML](https://developer.mozilla.org/es/docs/Web/HTML)|
+|1| [CSS](https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/CSS_basics)|
+|1| [VUE3](https://vuejs.org/)|
 |1| [Node js](https://nodejs.org/en/)|
 
 | |Dependencia|
@@ -37,14 +39,19 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 |------|------|
 |1| [PostgreSQL](https://www.postgresql.org/)|
 
+|Repositorio|Link|
+|------|------|
+|Diseño y prototipado de la solución| [FIGMA](https://www.figma.com/file/dmR2q94fjEHWluk2vyVlVG/H2O-Mexico?node-id=11%3A164)|
+|Repositorio de Frontend| [Frontend](https://github.com/Gera097/H2O_client)|
+|Repositorio de Backend| [Backend](https://github.com/harold-barron/H2O-Backend)|
 
-<div id='id2' />
-
-## Propuesta
 
 <div id='id3' />
 
 ## Solución Frontend
+### Enlance a la solución:
+
+https://gera097.github.io/H2O_client/
 
 <div id='id4' />
 
@@ -77,12 +84,53 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
   
 #### 2.1 Modificamos el archivo .env creado con el usuario,contraseña  y nombre de la base de datos
   
+![url](https://user-images.githubusercontent.com/73314870/168501393-a977489c-b187-494a-8b53-9fa514107d2c.PNG)
+
+#### 2.2 Declaramos un nuestros modelos para las tablas en prisma/schema.prisma
   
-### 3. CRUD:
+  ![schema1](https://user-images.githubusercontent.com/73314870/168501621-000f54fb-9a8b-468d-b33a-ca97bd356b5c.PNG)
+
+  ![schema2](https://user-images.githubusercontent.com/73314870/168501626-0c8739b4-6101-421b-990b-dd4138594527.PNG)
+
+#### 2.3 Versionamos nuestros cambios utilizando npx prisma migrate dev --name init
+
+  
+#### 2.4 Creamos los archivos seed.js para llenar cada uno de nuestros modelos
+  
+  ![seeds](https://user-images.githubusercontent.com/73314870/168501792-a1a78d08-31b1-482f-a8b2-25137638f513.PNG)
+
+#### 2.5 Automatizamos los datos de la db en los archivos seed<nombre del modelo>.js
+  
+  Ejemplo de automatización para el llenado de la tabla user:
+  
+  [seedUser](https://user-images.githubusercontent.com/73314870/168501877-8058e2d0-e781-4beb-b7c6-9c99b6ca3be2.PNG)
+  
+#### 2.5 Corremos el archivo con el comando node prisma/seeUser.js para cada uno de los archivos creados y verificamos que las tablas fueron llenadas
+  
+### 3. CRUD
+  
+  #### Creamos un archivo llamado server.js y agregamos el cliente de prisma 
+
+  ![crud](https://user-images.githubusercontent.com/73314870/168502090-179766c4-8f7b-45b9-8dcd-85ab03c6f552.PNG)
 
 ### 4. API CRUD:
+  
+  #### Creamos los endpoints necesarios (get,put,post,delete)
+  
+  ##### Ejemplo de enpoints para Users
+  
+  ![EPUSers1](https://user-images.githubusercontent.com/73314870/168502274-47a58c91-dd1c-4100-bfa8-103c7339af22.PNG)
+  
+  ![EPUSers](https://user-images.githubusercontent.com/73314870/168502275-3d3b91e2-2e4f-4540-8bdf-17f368676fd3.PNG)
 
 ### 5. Automatización de pruebas con Postman:
+  
+  #### Probamos el api corriendo el archivo server.js con node server.js, la url del api es : http://localhost:3000/Animal y http://localhost:3000/Users/
+  
+  #### Probamos los endpoinds con Postman:
+  
+  ![PostmanAnimals](https://user-images.githubusercontent.com/73314870/168502644-87d9b4c4-7ce2-4be4-ac2d-401c5f37b4c5.PNG)
+
 
 <div id='id5' />
 
