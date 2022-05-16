@@ -14,9 +14,10 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 ## Contenido: 📋
 ---
 - [Dependencias de desarrollo](#id1)
+- [Propuesta de solución)](#id2)
 - [Solución Frontend](#id3)
-- [Solución Backend](#id3)
-- [Autores](#id4)
+- [Solución Backend](#id4)
+- [Autores](#id5)
 
 <div id='id1' />
 
@@ -45,6 +46,29 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 |Diseño y prototipado de la solución| [FIGMA](https://www.figma.com/file/dmR2q94fjEHWluk2vyVlVG/H2O-Mexico?node-id=11%3A164)|
 |Repositorio de Frontend| [Frontend](https://github.com/Gera097/H2O_client)|
 |Repositorio de Backend| [Backend](https://github.com/harold-barron/H2O-Backend)|
+|Explicación en Tiktok| [TikTok](https://vm.tiktok.com/ZMLc3MGcA/?k=1)|
+
+<div id='id2' />
+
+##  Propuesta de solución 
+
+![P11](https://user-images.githubusercontent.com/73314870/168504456-50e6486a-c63f-4b44-81e9-84c87d1f551c.PNG)
+
+![P22](https://user-images.githubusercontent.com/73314870/168504457-78481a3d-decb-4fb7-8127-4d1dda7ae0f0.PNG)
+
+![P1](https://user-images.githubusercontent.com/73314870/168504471-7b49a1bf-118d-4921-8b87-36fb97f417bb.PNG)
+
+![P2](https://user-images.githubusercontent.com/73314870/168504472-ee3f1ba6-0711-4f20-9fd4-2fcdd18cbfdb.PNG)
+
+![p3](https://user-images.githubusercontent.com/73314870/168504474-0778d917-100f-4f43-a5d2-3f6a0c6aaff6.PNG)
+
+![P4](https://user-images.githubusercontent.com/73314870/168504477-a045345b-18ed-4737-8d45-8a2ae9ca5b51.PNG)
+
+![P5](https://user-images.githubusercontent.com/73314870/168504479-b8b16da8-797c-403b-9670-dc986aeb9ce8.PNG)
+
+![P6](https://user-images.githubusercontent.com/73314870/168504468-ae897b18-0686-446c-ae5c-89c6d5c9332c.PNG)
+
+
 
 
 <div id='id3' />
