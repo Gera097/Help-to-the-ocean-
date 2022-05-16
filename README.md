@@ -174,7 +174,7 @@ https://gera097.github.io/H2O_client/
 ## Autores ✒️
 
 * **Gerardo Sanchez Alba** - *Frontend* - [Gera097](https://github.com/Gera097)
-* **Harold Alejandro Barron Perez** - *Backend* - [harold-barron](https://github.com/harold-barron)
+* **Harold Alejandro Barron Perez** - *Backend y documentación* - [harold-barron](https://github.com/harold-barron)
 * **Eugenio Torres García Luna** - *Direccion Creativa* - [Eugenio-tgl](https://github.com/Eugenio-tgl)
 * **Ernesto Botello Barron** - *Documentación* - [ErnestoBotello](https://github.com/ErnestoBotello)
 
