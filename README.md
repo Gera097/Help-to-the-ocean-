@@ -81,7 +81,7 @@ Especies marinas en peligro de extinción / contaminación marítima.​
 
 ## Solución Frontend
 
-### Enlance a la solución y captura:
+### Enlance a la solución:
 
 https://gera097.github.io/H2O_client/
 
