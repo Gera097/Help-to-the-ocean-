@@ -1,4 +1,4 @@
-# Help-to-the-ocean
+# Help to the ocean
 Proyecto fullstack desarrollado en el hackaton Hack the ocean de innovacción virtual
 
 
@@ -52,8 +52,23 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 
 ### 1. Creación de una base de datos en PostgreSQL:
 
+#### 1.1. Hacemos login con el usuario creado en la instalación de PostgreSQL:
+
+![LoginPostgreSQL](https://user-images.githubusercontent.com/73314870/168500573-fac6b09e-5f00-4a76-a7f0-7cdff983e39c.PNG)
+
+#### 1.2. Creamos la base de datos con el comando create database <nombre de la base a crear>;
+
+![CreateDB](https://user-images.githubusercontent.com/73314870/168500703-fd245c9c-cc0b-4e97-9cf0-56ae83d65017.PNG)
+
+#### 1.3. Revisamos que la tabla ha sido creada correctamente con \l
+
+![backslashl](https://user-images.githubusercontent.com/73314870/168500773-99714441-87fd-498f-bf19-90fe08b293c8.PNG)
+
 ### 2. Creación del API:
 
+#### 2.1  
+  
+  
 ### 3. CRUD:
 
 ### 4. API CRUD:
