@@ -140,6 +140,10 @@ https://gera097.github.io/H2O_client/
   
   ![PostmanAnimals](https://user-images.githubusercontent.com/73314870/168502644-87d9b4c4-7ce2-4be4-ac2d-401c5f37b4c5.PNG)
 
+  #### Colecciones de postman:
+ 
+  [Postman_Collections.zip](https://github.com/harold-barron/Help-to-the-ocean-/files/8696469/Postman_Collections.zip)
+
 
 <div id='id5' />
 
