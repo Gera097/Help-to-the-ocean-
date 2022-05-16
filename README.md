@@ -28,6 +28,7 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 |1| [VUE3](https://vuejs.org/)|
 |1| [Node js](https://nodejs.org/en/)|
 
+
 | |Dependencia|
 |------|------|
 |1| [Prisma](https://www.prisma.io/)|
@@ -49,9 +50,17 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 <div id='id3' />
 
 ## Solución Frontend
-### Enlance a la solución:
+
+### Enlance a la solución y captura:
 
 https://gera097.github.io/H2O_client/
+
+![Front1](https://user-images.githubusercontent.com/73314870/168503574-beb7a1d2-ac94-4d8f-a49e-844713c8b747.PNG)
+
+![Front2](https://user-images.githubusercontent.com/73314870/168503577-0abb8f17-47fa-436a-8f93-b21ee2fa5e66.PNG)
+
+
+
 
 <div id='id4' />
 
