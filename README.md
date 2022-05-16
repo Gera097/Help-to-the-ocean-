@@ -11,6 +11,10 @@ Proyecto fullstack desarrollado en el hackaton Hack the ocean de innovacción vi
 
 Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una problemática relacionada con los océanos, utilizando, las tecnologías, marcos de trabajo y metodologías revisadas en Launch X.
 
+### Tema seleccionado:
+
+Especies marinas en peligro de extinción / contaminación marítima.​
+
 ## Contenido: 📋
 ---
 - [Dependencias de desarrollo](#id1)
@@ -51,6 +55,8 @@ Elaborar un proyecto web (fullstack) que de solución escalable y ágil a una pr
 <div id='id2' />
 
 ##  Propuesta de solución 
+
+### Crear una plataforma que permita la conexión de activistas ambientales. Dicha plataforma ayudará a concientizar sobre las actividades que se pueden realizar como individuos e incentivará la creación y la participación de eventos que ayuden a la flora y fauna del océano.
 
 ![P11](https://user-images.githubusercontent.com/73314870/168504456-50e6486a-c63f-4b44-81e9-84c87d1f551c.PNG)
 
